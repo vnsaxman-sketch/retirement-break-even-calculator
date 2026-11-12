@@ -124,6 +124,7 @@ export default function App() {
       <header className="header">
         <h1>Retirement Wealth Break-Even Calculator</h1>
         <p>California - Medi-Cal regular has no asset test since 2024 - LTC has home equity limit</p>
+	<p>Developed by: Long Nguyen</p>
       </header>
       <main className="layout">
         <section className="panel inputs">
